@@ -1,1 +1,8 @@
 http://kodeforest.net/html/uoe/aboutus.html
+
+pdf-viewer
+https://github.com/RaffaeleMorganti/pdf-viewer
+pdf.js + turn.js flipbook
+
+
+https://code.tutsplus.com/tutorials/how-to-use-the-wowbook-jquery-flipbook-plugin--cms-32575
