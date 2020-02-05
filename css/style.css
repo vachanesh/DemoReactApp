@@ -3,6 +3,12 @@
 	display: flex;
 	justify-content: center;
 }
+.footer-btn{
+	margin-bottom: 5px;
+	width: 150px;
+	display: block;
+	color: #2575fc;
+}
 .kode_wrapper,
 header,
 section,
