@@ -6,7 +6,7 @@
 .edu2_ft_topbar_wrap{
 	float: left;
 	width: 100%;
-	padding:30px 0;  
+	padding:74px 0;  
 	border-bottom: 1px solid #7a7a7a;
 }
 .edu2_ft_topbar_des{
@@ -121,7 +121,7 @@ footer .widget h5{
 	content: "\f105";
 	position: absolute;
 	left: 0px;
-	top: 5px;
+	top: 0px;
 	font-family: FontAwesome;
 }
 .widget-links ul li a:hover:before{
@@ -139,7 +139,7 @@ footer .widget h5{
 	color: #f9f9f9;
 	text-transform: capitalize;
 	position: relative;
-	padding: 5px 0px 5px 15px;
+	padding: 0px 0px 0px 15px;
 	font-size: 14px;
 }
 .widget-links ul li a:hover{
