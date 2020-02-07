@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="css/wow_book/wow_book.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div id="my_flip_book"></div>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/wow_book/pdf.combined.min.js"></script>
+    <script src="js/wow_book/wow_book.min.js"></script>
+    <script>
+      $("#my_flip_book").wowBook({
+        container: true,
+        containerHeight: 670,
+        containerWidth: 830,
+        flipSound: false,
+        pdf: "http://www.africau.edu/images/default/sample.pdf",
+        containerBackground: "#333",
+        hardcovers: true,
+        toolbar: "back, next, first, last",
+        toolbarPosition: "bottom"
+      });
+    </script>
+  </body>
+</html>
