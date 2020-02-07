@@ -8,3 +8,5 @@ pdf.js + turn.js flipbook
 https://code.tutsplus.com/tutorials/how-to-use-the-wowbook-jquery-flipbook-plugin--cms-32575
 
 https://hdtuto.com/article/laravel-57-multiple-authentication-example
+
+https://mozilla.github.io/pdf.js/examples/
