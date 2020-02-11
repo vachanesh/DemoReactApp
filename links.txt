@@ -10,3 +10,6 @@ https://code.tutsplus.com/tutorials/how-to-use-the-wowbook-jquery-flipbook-plugi
 https://hdtuto.com/article/laravel-57-multiple-authentication-example
 
 https://mozilla.github.io/pdf.js/examples/
+
+
+https://www.youtube.com/watch?v=f6_arCce8Q4

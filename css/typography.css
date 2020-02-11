@@ -32,7 +32,7 @@
 }
 body {
     color: #777777;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 300;
 	line-height:30px;
@@ -85,7 +85,7 @@ p a {
 
 
 a {
-    color: #777777;
+    color: #ffffff;
     text-decoration: none;
 	font-family: 'Open Sans', sans-serif;
 }
